@@ -29,7 +29,7 @@ Isamar Chávez Díaz, Bryan Gael Esquivel Pérez e Isis Lizbeth Vázquez Ávalos
 Carpeta: [`jugueteria-julio/`](jugueteria-julio)
 
 ### GESPROD – Pedidos
-`[Individual / En equipo]` · Microsoft Access · Excel
+`Individual` · Microsoft Access · Excel
 
 Base de datos de clientes, productos y pedidos, con tablas importadas desde
 Excel y consultas con condiciones (por ejemplo, filtrar productos por sección).
