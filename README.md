@@ -26,8 +26,6 @@ normalización y consultas.
 Equipo: Danna Geraldine Ávila García, Ángel de Jesús Canela Figueroa,
 Isamar Chávez Díaz, Bryan Gael Esquivel Pérez e Isis Lizbeth Vázquez Ávalos.
 
-**Mi participación:** [escribe solo lo que hiciste tú]
-
 Carpeta: [`jugueteria-julio/`](jugueteria-julio)
 
 ### GESPROD – Pedidos
